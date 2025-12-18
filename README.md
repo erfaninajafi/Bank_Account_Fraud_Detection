@@ -107,9 +107,13 @@ Benefits include:
 ## How to Run
 1. Clone the Repository
 2. Install dependencies
-``` pip install -r requirements.txt ```
-3. Run the notebook:
-``` jupyter notebook model.ipynb ```
+```text
+pip install -r requirements.txt
+```
+4. Run the notebook:
+```text
+jupyter notebook model.ipynb
+```
 
 --- 
 Author
